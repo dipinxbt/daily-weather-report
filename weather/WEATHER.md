@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-03-20 06:39 UTC
+> **🌆 Evening Update** — 2026-03-20 18:31 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:24 PM NPT | 24.7°C | Partly Cloudy ⛅ |
-| 🇮🇳 | **New Delhi** | India | 12:09 PM IST | 20.4°C | Overcast ☁️ |
-| 🇺🇸 | **New York** | USA | 02:39 AM EDT | 1.6°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 04:39 PM AEST | 23.0°C | Rain Showers 🌦️ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:39 AM WAT | 28.4°C | Partly Cloudy ⛅ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:16 AM NPT | 16.5°C | Overcast ☁️ |
+| 🇮🇳 | **New Delhi** | India | 12:01 AM IST | 16.6°C | Mainly Clear 🌤️ |
+| 🇺🇸 | **New York** | USA | 02:31 PM EDT | 15.2°C | Partly Cloudy ⛅ |
+| 🇦🇺 | **Sydney** | Australia | 04:31 AM AEST | 18.4°C | Foggy 🌫️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:31 PM WAT | 29.2°C | Partly Cloudy ⛅ |
 
 ---
 
@@ -22,55 +22,55 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:24 PM NPT &nbsp;|&nbsp; 📅 Friday, Mar 20 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:16 AM NPT &nbsp;|&nbsp; 📅 Saturday, Mar 21 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **24.7°C** | 23.7°C | 38% | 14.1 km/h | 0.0 mm | 7.75 |
-
-> Partly Cloudy ⛅
-
-
-### 🇮🇳 New Delhi, India
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:09 PM IST &nbsp;|&nbsp; 📅 Friday, Mar 20 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **20.4°C** | 21.5°C | 72% | 4.2 km/h | 0.0 mm | 1.4 |
+| **16.5°C** | 16.1°C | 74% | 6.6 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
 
-### 🇺🇸 New York, USA
+### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:39 AM EDT &nbsp;|&nbsp; 📅 Friday, Mar 20 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:01 AM IST &nbsp;|&nbsp; 📅 Saturday, Mar 21 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **1.6°C** | -2.0°C | 76% | 7.9 km/h | 0.0 mm | 0.0 |
+| **16.6°C** | 18.4°C | 96% | 1.9 km/h | 0.0 mm | 0.0 |
 
-> Clear Sky ☀️
+> Mainly Clear 🌤️
+
+
+### 🇺🇸 New York, USA
+
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:31 PM EDT &nbsp;|&nbsp; 📅 Friday, Mar 20 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **15.2°C** | 11.8°C | 46% | 18.4 km/h | 0.0 mm | 5.0 |
+
+> Partly Cloudy ⛅
 
 
 ### 🇦🇺 Sydney, Australia
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:39 PM AEST &nbsp;|&nbsp; 📅 Friday, Mar 20 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:31 AM AEST &nbsp;|&nbsp; 📅 Saturday, Mar 21 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.0°C** | 24.5°C | 72% | 8.0 km/h | 0.1 mm | 2.3 |
+| **18.4°C** | 21.1°C | 99% | 1.8 km/h | 0.0 mm | 0.0 |
 
-> Rain Showers 🌦️
+> Foggy 🌫️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 07:39 AM WAT &nbsp;|&nbsp; 📅 Friday, Mar 20 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:31 PM WAT &nbsp;|&nbsp; 📅 Friday, Mar 20 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.4°C** | 34.7°C | 85% | 5.4 km/h | 0.0 mm | 0.25 |
+| **29.2°C** | 34.4°C | 79% | 11.8 km/h | 0.0 mm | 0.05 |
 
 > Partly Cloudy ⛅
 
@@ -79,6 +79,6 @@
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-03-20 06:39 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-03-20 18:31 UTC*
 
 </div>
