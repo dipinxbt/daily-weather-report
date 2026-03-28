@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-03-27 18:39 UTC
+> **🌅 Morning Update** — 2026-03-28 06:42 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:25 AM NPT | 15.8°C | Overcast ☁️ |
-| 🇮🇳 | **New Delhi** | India | — | — | ⚠️ Error |
-| 🇺🇸 | **New York** | USA | 02:40 PM EDT | 11.1°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 04:40 AM AEST | 12.7°C | Partly Cloudy ⛅ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:40 PM WAT | 29.0°C | Mainly Clear 🌤️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:27 PM NPT | 22.0°C | Overcast ☁️ |
+| 🇮🇳 | **New Delhi** | India | 12:12 PM IST | 28.6°C | Overcast ☁️ |
+| 🇺🇸 | **New York** | USA | 02:42 AM EDT | 1.5°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 04:42 PM AEST | 21.7°C | Partly Cloudy ⛅ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:42 AM WAT | 26.9°C | Rain Showers 🌦️ |
 
 ---
 
@@ -22,52 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 12:25 AM NPT &nbsp;|&nbsp; 📅 Saturday, Mar 28 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:27 PM NPT &nbsp;|&nbsp; 📅 Saturday, Mar 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **15.8°C** | 16.1°C | 87% | 6.5 km/h | 0.0 mm | 0.0 |
+| **22.0°C** | 22.7°C | 62% | 10.0 km/h | 0.0 mm | 7.75 |
+
+> Overcast ☁️
+
+
+### 🇮🇳 New Delhi, India
+
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:12 PM IST &nbsp;|&nbsp; 📅 Saturday, Mar 28 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **28.6°C** | 31.0°C | 44% | 7.2 km/h | 0.0 mm | 5.65 |
 
 > Overcast ☁️
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:40 PM EDT &nbsp;|&nbsp; 📅 Friday, Mar 27 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 02:42 AM EDT &nbsp;|&nbsp; 📅 Saturday, Mar 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **11.1°C** | 6.5°C | 44% | 20.7 km/h | 0.0 mm | 5.5 |
+| **1.5°C** | -2.8°C | 69% | 12.1 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Clear Sky ☀️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌙 Night &nbsp;|&nbsp; 🕐 04:40 AM AEST &nbsp;|&nbsp; 📅 Saturday, Mar 28 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:42 PM AEST &nbsp;|&nbsp; 📅 Saturday, Mar 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **12.7°C** | 9.7°C | 58% | 11.5 km/h | 0.0 mm | 0.0 |
+| **21.7°C** | 19.5°C | 40% | 10.0 km/h | 0.0 mm | 2.05 |
 
 > Partly Cloudy ⛅
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:40 PM WAT &nbsp;|&nbsp; 📅 Friday, Mar 27 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:42 AM WAT &nbsp;|&nbsp; 📅 Saturday, Mar 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **29.0°C** | 34.3°C | 80% | 10.2 km/h | 0.0 mm | 0.05 |
+| **26.9°C** | 33.1°C | 92% | 5.4 km/h | 0.2 mm | 0.1 |
 
-> Mainly Clear 🌤️
+> Rain Showers 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-03-27 18:39 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-03-28 06:42 UTC*
 
 </div>
