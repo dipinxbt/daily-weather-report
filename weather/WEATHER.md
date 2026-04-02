@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-04-02 06:57 UTC
+> **🌆 Evening Update** — 2026-04-02 18:39 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:42 PM NPT | 27.9°C | Clear Sky ☀️ |
-| 🇮🇳 | **New Delhi** | India | 12:27 PM IST | 32.7°C | Overcast ☁️ |
-| 🇺🇸 | **New York** | USA | 02:57 AM EDT | 10.0°C | Light Drizzle 🌦️ |
-| 🇦🇺 | **Sydney** | Australia | 04:57 PM AEST | 24.8°C | Mainly Clear 🌤️ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:57 AM WAT | 26.9°C | Rain Showers 🌦️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:24 AM NPT | 18.3°C | Clear Sky ☀️ |
+| 🇮🇳 | **New Delhi** | India | 12:09 AM IST | 25.2°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 02:39 PM EDT | 7.0°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 04:39 AM AEST | 15.8°C | Foggy 🌫️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:39 PM WAT | 27.9°C | Overcast ☁️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:42 PM NPT &nbsp;|&nbsp; 📅 Thursday, Apr 02 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:24 AM NPT &nbsp;|&nbsp; 📅 Friday, Apr 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.9°C** | 29.9°C | 39% | 9.0 km/h | 0.0 mm | 8.25 |
+| **18.3°C** | 18.9°C | 80% | 6.6 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:27 PM IST &nbsp;|&nbsp; 📅 Thursday, Apr 02 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:09 AM IST &nbsp;|&nbsp; 📅 Friday, Apr 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **32.7°C** | 34.7°C | 35% | 5.2 km/h | 0.0 mm | 6.8 |
+| **25.2°C** | 28.3°C | 68% | 1.1 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:57 AM EDT &nbsp;|&nbsp; 📅 Thursday, Apr 02 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:39 PM EDT &nbsp;|&nbsp; 📅 Thursday, Apr 02 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **10.0°C** | 6.2°C | 86% | 21.8 km/h | 0.1 mm | 0.0 |
+| **7.0°C** | 3.2°C | 87% | 18.0 km/h | 0.0 mm | 2.65 |
 
-> Light Drizzle 🌦️
+> Overcast ☁️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:57 PM AEST &nbsp;|&nbsp; 📅 Thursday, Apr 02 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:39 AM AEST &nbsp;|&nbsp; 📅 Friday, Apr 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **24.8°C** | 24.7°C | 56% | 13.2 km/h | 0.0 mm | 1.45 |
+| **15.8°C** | 17.3°C | 100% | 3.7 km/h | 0.0 mm | 0.0 |
 
-> Mainly Clear 🌤️
+> Foggy 🌫️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 07:57 AM WAT &nbsp;|&nbsp; 📅 Thursday, Apr 02 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:39 PM WAT &nbsp;|&nbsp; 📅 Thursday, Apr 02 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.9°C** | 33.6°C | 91% | 1.5 km/h | 0.5 mm | 0.45 |
+| **27.9°C** | 33.7°C | 83% | 5.5 km/h | 0.0 mm | 0.05 |
 
-> Rain Showers 🌦️
+> Overcast ☁️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-02 06:57 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-02 18:39 UTC*
 
 </div>
