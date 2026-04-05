@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-04-04 18:24 UTC
+> **🌅 Morning Update** — 2026-04-05 06:52 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:09 AM NPT | 19.4°C | Overcast ☁️ |
-| 🇮🇳 | **New Delhi** | India | 11:54 PM IST | 19.0°C | Overcast ☁️ |
-| 🇺🇸 | **New York** | USA | 02:24 PM EDT | 23.4°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 04:24 AM AEST | 15.6°C | Overcast ☁️ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:24 PM WAT | 28.9°C | Partly Cloudy ⛅ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:37 PM NPT | 25.5°C | Partly Cloudy ⛅ |
+| 🇮🇳 | **New Delhi** | India | 12:22 PM IST | 29.6°C | Mainly Clear 🌤️ |
+| 🇺🇸 | **New York** | USA | 02:52 AM EDT | 5.7°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 04:52 PM AEST | 18.8°C | Partly Cloudy ⛅ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:52 AM WAT | 27.0°C | Overcast ☁️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 12:09 AM NPT &nbsp;|&nbsp; 📅 Sunday, Apr 05 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:37 PM NPT &nbsp;|&nbsp; 📅 Sunday, Apr 05 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.4°C** | 20.7°C | 82% | 5.8 km/h | 0.0 mm | 0.0 |
+| **25.5°C** | 27.2°C | 45% | 8.8 km/h | 0.0 mm | 7.45 |
 
-> Overcast ☁️
+> Partly Cloudy ⛅
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 11:54 PM IST &nbsp;|&nbsp; 📅 Saturday, Apr 04 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:22 PM IST &nbsp;|&nbsp; 📅 Sunday, Apr 05 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.0°C** | 21.1°C | 89% | 3.3 km/h | 0.0 mm | 0.0 |
+| **29.6°C** | 31.2°C | 39% | 7.8 km/h | 0.0 mm | 6.1 |
 
-> Overcast ☁️
+> Mainly Clear 🌤️
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:24 PM EDT &nbsp;|&nbsp; 📅 Saturday, Apr 04 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 02:52 AM EDT &nbsp;|&nbsp; 📅 Sunday, Apr 05 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.4°C** | 22.9°C | 49% | 16.6 km/h | 0.0 mm | 6.25 |
-
-> Clear Sky ☀️
-
-
-### 🇦🇺 Sydney, Australia
-
-**🌙 Night &nbsp;|&nbsp; 🕐 04:24 AM AEST &nbsp;|&nbsp; 📅 Sunday, Apr 05 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **15.6°C** | 16.1°C | 88% | 4.6 km/h | 0.0 mm | 0.0 |
+| **5.7°C** | 2.7°C | 96% | 12.4 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
 
-### 🇳🇬 Lagos, Nigeria
+### 🇦🇺 Sydney, Australia
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:24 PM WAT &nbsp;|&nbsp; 📅 Saturday, Apr 04 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:52 PM AEST &nbsp;|&nbsp; 📅 Sunday, Apr 05 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.9°C** | 33.7°C | 75% | 9.0 km/h | 0.0 mm | 0.15 |
+| **18.8°C** | 18.3°C | 69% | 9.9 km/h | 0.0 mm | 0.45 |
 
 > Partly Cloudy ⛅
+
+
+### 🇳🇬 Lagos, Nigeria
+
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:52 AM WAT &nbsp;|&nbsp; 📅 Sunday, Apr 05 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **27.0°C** | 33.5°C | 92% | 4.3 km/h | 0.0 mm | 0.2 |
+
+> Overcast ☁️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-04 18:24 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-05 06:52 UTC*
 
 </div>
