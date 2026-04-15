@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-04-14 18:55 UTC
+> **🌅 Morning Update** — 2026-04-15 07:15 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:40 AM NPT | 17.8°C | Partly Cloudy ⛅ |
-| 🇮🇳 | **New Delhi** | India | 12:25 AM IST | 28.7°C | Partly Cloudy ⛅ |
-| 🇺🇸 | **New York** | USA | 02:55 PM EDT | 30.0°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 04:55 AM AEST | 9.9°C | Foggy 🌫️ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:55 PM WAT | 29.4°C | Partly Cloudy ⛅ |
+| 🇳🇵 | **Kathmandu** | Nepal | 01:00 PM NPT | 27.8°C | Clear Sky ☀️ |
+| 🇮🇳 | **New Delhi** | India | 12:45 PM IST | 35.7°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 03:15 AM EDT | 20.1°C | Partly Cloudy ⛅ |
+| 🇦🇺 | **Sydney** | Australia | 05:15 PM AEST | 20.5°C | Mainly Clear 🌤️ |
+| 🇳🇬 | **Lagos** | Nigeria | 08:15 AM WAT | 29.0°C | Mainly Clear 🌤️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 12:40 AM NPT &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:00 PM NPT &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.8°C** | 17.9°C | 71% | 5.1 km/h | 0.0 mm | 0.0 |
-
-> Partly Cloudy ⛅
-
-
-### 🇮🇳 New Delhi, India
-
-**🌙 Night &nbsp;|&nbsp; 🕐 12:25 AM IST &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **28.7°C** | 28.9°C | 36% | 3.2 km/h | 0.0 mm | 0.0 |
-
-> Partly Cloudy ⛅
-
-
-### 🇺🇸 New York, USA
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:55 PM EDT &nbsp;|&nbsp; 📅 Tuesday, Apr 14 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **30.0°C** | 28.5°C | 34% | 22.8 km/h | 0.0 mm | 6.45 |
+| **27.8°C** | 28.5°C | 37% | 12.4 km/h | 0.0 mm | 8.8 |
 
 > Clear Sky ☀️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 04:55 AM AEST &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:45 PM IST &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **9.9°C** | 9.3°C | 98% | 3.2 km/h | 0.0 mm | 0.0 |
+| **35.7°C** | 36.9°C | 21% | 9.4 km/h | 0.0 mm | 7.35 |
 
-> Foggy 🌫️
+> Clear Sky ☀️
+
+
+### 🇺🇸 New York, USA
+
+**🌙 Night &nbsp;|&nbsp; 🕐 03:15 AM EDT &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **20.1°C** | 20.8°C | 74% | 7.6 km/h | 0.0 mm | 0.0 |
+
+> Partly Cloudy ⛅
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:15 PM AEST &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **20.5°C** | 19.6°C | 60% | 11.2 km/h | 0.0 mm | 0.55 |
+
+> Mainly Clear 🌤️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:55 PM WAT &nbsp;|&nbsp; 📅 Tuesday, Apr 14 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 08:15 AM WAT &nbsp;|&nbsp; 📅 Wednesday, Apr 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **29.4°C** | 34.5°C | 78% | 11.7 km/h | 0.0 mm | 0.0 |
+| **29.0°C** | 35.2°C | 82% | 6.9 km/h | 0.0 mm | 1.1 |
 
-> Partly Cloudy ⛅
+> Mainly Clear 🌤️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-14 18:55 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-15 07:15 UTC*
 
 </div>
