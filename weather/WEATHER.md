@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-04-18 06:54 UTC
+> **🌆 Evening Update** — 2026-04-18 18:30 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:39 PM NPT | 25.7°C | Rain Showers 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 12:24 PM IST | 37.2°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 02:54 AM EDT | 13.7°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 04:54 PM AEST | 17.6°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:54 AM WAT | 29.1°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:15 AM NPT | 20.2°C | Mainly Clear 🌤️ |
+| 🇮🇳 | **New Delhi** | India | 12:00 AM IST | 32.1°C | Overcast ☁️ |
+| 🇺🇸 | **New York** | USA | 02:30 PM EDT | 17.0°C | Partly Cloudy ⛅ |
+| 🇦🇺 | **Sydney** | Australia | 04:30 AM AEST | 8.4°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:30 PM WAT | 29.0°C | Partly Cloudy ⛅ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:39 PM NPT &nbsp;|&nbsp; 📅 Saturday, Apr 18 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:15 AM NPT &nbsp;|&nbsp; 📅 Sunday, Apr 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.7°C** | 28.8°C | 65% | 10.6 km/h | 0.1 mm | 1.6 |
+| **20.2°C** | 22.2°C | 88% | 6.9 km/h | 0.0 mm | 0.0 |
 
-> Rain Showers 🌦️
+> Mainly Clear 🌤️
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:24 PM IST &nbsp;|&nbsp; 📅 Saturday, Apr 18 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:00 AM IST &nbsp;|&nbsp; 📅 Sunday, Apr 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **37.2°C** | 41.7°C | 27% | 0.5 km/h | 0.0 mm | 6.6 |
-
-> Clear Sky ☀️
-
-
-### 🇺🇸 New York, USA
-
-**🌙 Night &nbsp;|&nbsp; 🕐 02:54 AM EDT &nbsp;|&nbsp; 📅 Saturday, Apr 18 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **13.7°C** | 14.0°C | 97% | 4.7 km/h | 0.0 mm | 0.0 |
+| **32.1°C** | 32.5°C | 31% | 3.8 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:54 PM AEST &nbsp;|&nbsp; 📅 Saturday, Apr 18 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:30 PM EDT &nbsp;|&nbsp; 📅 Saturday, Apr 18 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.6°C** | 14.5°C | 40% | 11.0 km/h | 0.0 mm | 0.95 |
+| **17.0°C** | 14.1°C | 67% | 21.3 km/h | 0.0 mm | 6.3 |
+
+> Partly Cloudy ⛅
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌙 Night &nbsp;|&nbsp; 🕐 04:30 AM AEST &nbsp;|&nbsp; 📅 Sunday, Apr 19 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **8.4°C** | 6.8°C | 82% | 3.3 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 07:54 AM WAT &nbsp;|&nbsp; 📅 Saturday, Apr 18 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:30 PM WAT &nbsp;|&nbsp; 📅 Saturday, Apr 18 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **29.1°C** | 35.6°C | 83% | 5.6 km/h | 0.0 mm | 0.55 |
+| **29.0°C** | 34.9°C | 82% | 8.4 km/h | 0.0 mm | 0.05 |
 
-> Overcast ☁️
+> Partly Cloudy ⛅
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-18 06:54 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-04-18 18:30 UTC*
 
 </div>
