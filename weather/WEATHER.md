@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-05-03 07:43 UTC
+> **🌆 Evening Update** — 2026-05-03 18:40 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:28 PM NPT | 23.5°C | Overcast ☁️ |
-| 🇮🇳 | **New Delhi** | India | 01:13 PM IST | 35.0°C | Overcast ☁️ |
-| 🇺🇸 | **New York** | USA | 03:43 AM EDT | 7.0°C | Mainly Clear 🌤️ |
-| 🇦🇺 | **Sydney** | Australia | 05:43 PM AEST | 21.5°C | Partly Cloudy ⛅ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:43 AM WAT | 28.4°C | Mainly Clear 🌤️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:25 AM NPT | 16.1°C | Light Drizzle 🌦️ |
+| 🇮🇳 | **New Delhi** | India | 12:10 AM IST | 27.5°C | Overcast ☁️ |
+| 🇺🇸 | **New York** | USA | 02:40 PM EDT | 13.8°C | Mainly Clear 🌤️ |
+| 🇦🇺 | **Sydney** | Australia | — | — | ⚠️ Error |
+| 🇳🇬 | **Lagos** | Nigeria | 07:40 PM WAT | 27.9°C | Overcast ☁️ |
 
 ---
 
@@ -22,63 +22,52 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:28 PM NPT &nbsp;|&nbsp; 📅 Sunday, May 03 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:25 AM NPT &nbsp;|&nbsp; 📅 Monday, May 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.5°C** | 25.8°C | 59% | 4.2 km/h | 0.0 mm | 4.25 |
+| **16.1°C** | 17.1°C | 94% | 5.2 km/h | 0.1 mm | 0.0 |
 
-> Overcast ☁️
+> Light Drizzle 🌦️
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:13 PM IST &nbsp;|&nbsp; 📅 Sunday, May 03 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:10 AM IST &nbsp;|&nbsp; 📅 Monday, May 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **35.0°C** | 36.9°C | 32% | 8.5 km/h | 0.0 mm | 7.55 |
+| **27.5°C** | 28.9°C | 58% | 11.1 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
 
 ### 🇺🇸 New York, USA
 
-**🌙 Night &nbsp;|&nbsp; 🕐 03:43 AM EDT &nbsp;|&nbsp; 📅 Sunday, May 03 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:40 PM EDT &nbsp;|&nbsp; 📅 Sunday, May 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **7.0°C** | 2.7°C | 52% | 12.6 km/h | 0.0 mm | 0.0 |
+| **13.8°C** | 8.3°C | 27% | 27.9 km/h | 0.0 mm | 5.9 |
 
 > Mainly Clear 🌤️
-
-
-### 🇦🇺 Sydney, Australia
-
-**🌇 Evening &nbsp;|&nbsp; 🕐 05:43 PM AEST &nbsp;|&nbsp; 📅 Sunday, May 03 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **21.5°C** | 21.5°C | 77% | 18.0 km/h | 0.0 mm | 0.15 |
-
-> Partly Cloudy ⛅
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 08:43 AM WAT &nbsp;|&nbsp; 📅 Sunday, May 03 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:40 PM WAT &nbsp;|&nbsp; 📅 Sunday, May 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.4°C** | 33.2°C | 82% | 13.1 km/h | 0.0 mm | 1.7 |
+| **27.9°C** | 33.1°C | 84% | 10.4 km/h | 0.0 mm | 0.05 |
 
-> Mainly Clear 🌤️
+> Overcast ☁️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-03 07:43 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-03 18:40 UTC*
 
 </div>
