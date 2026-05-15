@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-05-14 19:24 UTC
+> **🌅 Morning Update** — 2026-05-15 08:34 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:09 AM NPT | 17.2°C | Overcast ☁️ |
-| 🇮🇳 | **New Delhi** | India | 12:54 AM IST | 31.7°C | Partly Cloudy ⛅ |
-| 🇺🇸 | **New York** | USA | 03:24 PM EDT | 18.4°C | Partly Cloudy ⛅ |
-| 🇦🇺 | **Sydney** | Australia | 05:24 AM AEST | 14.4°C | Partly Cloudy ⛅ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:24 PM WAT | 26.5°C | Heavy Drizzle 🌧️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 02:19 PM NPT | 24.1°C | Heavy Drizzle 🌧️ |
+| 🇮🇳 | **New Delhi** | India | 02:04 PM IST | 39.0°C | Light Drizzle 🌦️ |
+| 🇺🇸 | **New York** | USA | 04:34 AM EDT | 8.6°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 06:34 PM AEST | 17.5°C | Mainly Clear 🌤️ |
+| 🇳🇬 | **Lagos** | Nigeria | 09:34 AM WAT | 27.5°C | Rain Showers 🌦️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:09 AM NPT &nbsp;|&nbsp; 📅 Friday, May 15 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:19 PM NPT &nbsp;|&nbsp; 📅 Friday, May 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.2°C** | 19.1°C | 99% | 4.8 km/h | 0.0 mm | 0.0 |
+| **24.1°C** | 26.1°C | 66% | 7.3 km/h | 0.3 mm | 7.45 |
 
-> Overcast ☁️
+> Heavy Drizzle 🌧️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 12:54 AM IST &nbsp;|&nbsp; 📅 Friday, May 15 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:04 PM IST &nbsp;|&nbsp; 📅 Friday, May 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **31.7°C** | 34.3°C | 47% | 5.6 km/h | 0.0 mm | 0.0 |
+| **39.0°C** | 38.2°C | 19% | 13.9 km/h | 0.1 mm | 7.2 |
 
-> Partly Cloudy ⛅
+> Light Drizzle 🌦️
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:24 PM EDT &nbsp;|&nbsp; 📅 Thursday, May 14 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:34 AM EDT &nbsp;|&nbsp; 📅 Friday, May 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **18.4°C** | 17.0°C | 48% | 8.6 km/h | 0.0 mm | 1.35 |
+| **8.6°C** | 6.5°C | 81% | 6.6 km/h | 0.0 mm | 0.0 |
 
-> Partly Cloudy ⛅
+> Clear Sky ☀️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:24 AM AEST &nbsp;|&nbsp; 📅 Friday, May 15 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 06:34 PM AEST &nbsp;|&nbsp; 📅 Friday, May 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **14.4°C** | 14.6°C | 96% | 6.5 km/h | 0.0 mm | 0.0 |
+| **17.5°C** | 18.2°C | 83% | 5.6 km/h | 0.0 mm | 0.0 |
 
-> Partly Cloudy ⛅
+> Mainly Clear 🌤️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 08:24 PM WAT &nbsp;|&nbsp; 📅 Thursday, May 14 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 09:34 AM WAT &nbsp;|&nbsp; 📅 Friday, May 15 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.5°C** | 32.2°C | 90% | 5.9 km/h | 0.3 mm | 0.0 |
+| **27.5°C** | 32.6°C | 84% | 9.7 km/h | 1.1 mm | 2.4 |
 
-> Heavy Drizzle 🌧️
+> Rain Showers 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-14 19:24 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-15 08:34 UTC*
 
 </div>
