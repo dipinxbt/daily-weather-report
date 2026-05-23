@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-05-22 19:19 UTC
+> **🌅 Morning Update** — 2026-05-23 08:02 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:04 AM NPT | 20.0°C | Light Drizzle 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 12:49 AM IST | 34.3°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 03:19 PM EDT | 20.9°C | Mainly Clear 🌤️ |
-| 🇦🇺 | **Sydney** | Australia | 05:19 AM AEST | 16.5°C | Light Drizzle 🌦️ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:19 PM WAT | 26.9°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 01:47 PM NPT | 27.1°C | Rain 🌧️ |
+| 🇮🇳 | **New Delhi** | India | 01:32 PM IST | 40.2°C | Mainly Clear 🌤️ |
+| 🇺🇸 | **New York** | USA | 04:02 AM EDT | 11.8°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 06:02 PM AEST | 16.5°C | Light Drizzle 🌦️ |
+| 🇳🇬 | **Lagos** | Nigeria | 09:02 AM WAT | 26.0°C | Rain Showers 🌦️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:04 AM NPT &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:47 PM NPT &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **20.0°C** | 23.0°C | 98% | 4.4 km/h | 0.1 mm | 0.0 |
+| **27.1°C** | 29.2°C | 52% | 8.6 km/h | 0.8 mm | 8.7 |
 
-> Light Drizzle 🌦️
+> Rain 🌧️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 12:49 AM IST &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:32 PM IST &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **34.3°C** | 33.9°C | 23% | 4.0 km/h | 0.0 mm | 0.0 |
-
-> Clear Sky ☀️
-
-
-### 🇺🇸 New York, USA
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:19 PM EDT &nbsp;|&nbsp; 📅 Friday, May 22 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **20.9°C** | 18.4°C | 30% | 16.1 km/h | 0.0 mm | 6.75 |
+| **40.2°C** | 39.9°C | 18% | 13.0 km/h | 0.0 mm | 4.3 |
 
 > Mainly Clear 🌤️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇺🇸 New York, USA
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:19 AM AEST &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:02 AM EDT &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **16.5°C** | 15.9°C | 82% | 11.3 km/h | 0.1 mm | 0.0 |
+| **11.8°C** | 9.6°C | 62% | 6.4 km/h | 0.0 mm | 0.0 |
+
+> Overcast ☁️
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌇 Evening &nbsp;|&nbsp; 🕐 06:02 PM AEST &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **16.5°C** | 17.7°C | 92% | 4.2 km/h | 0.1 mm | 0.0 |
 
 > Light Drizzle 🌦️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 08:19 PM WAT &nbsp;|&nbsp; 📅 Friday, May 22 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 09:02 AM WAT &nbsp;|&nbsp; 📅 Saturday, May 23 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.9°C** | 32.4°C | 88% | 7.1 km/h | 0.0 mm | 0.0 |
+| **26.0°C** | 31.2°C | 88% | 5.4 km/h | 1.0 mm | 2.5 |
 
-> Overcast ☁️
+> Rain Showers 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-22 19:19 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-23 08:02 UTC*
 
 </div>
