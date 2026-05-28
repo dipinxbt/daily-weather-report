@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-05-27 19:55 UTC
+> **🌅 Morning Update** — 2026-05-28 09:39 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:40 AM NPT | 17.5°C | Partly Cloudy ⛅ |
-| 🇮🇳 | **New Delhi** | India | 01:25 AM IST | 35.3°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 03:55 PM EDT | 27.8°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 05:55 AM AEST | 17.3°C | Light Drizzle 🌦️ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:55 PM WAT | 27.8°C | Partly Cloudy ⛅ |
+| 🇳🇵 | **Kathmandu** | Nepal | 03:24 PM NPT | 22.1°C | Partly Cloudy ⛅ |
+| 🇮🇳 | **New Delhi** | India | 03:09 PM IST | 40.3°C | Thunderstorm ⛈️ |
+| 🇺🇸 | **New York** | USA | 05:39 AM EDT | 18.9°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 07:39 PM AEST | 18.4°C | Light Drizzle 🌦️ |
+| 🇳🇬 | **Lagos** | Nigeria | 10:39 AM WAT | 28.9°C | Overcast ☁️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:40 AM NPT &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:24 PM NPT &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.5°C** | 19.2°C | 96% | 4.8 km/h | 0.0 mm | 0.0 |
+| **22.1°C** | 24.6°C | 75% | 1.8 km/h | 0.0 mm | 2.65 |
 
 > Partly Cloudy ⛅
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:25 AM IST &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:09 PM IST &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **35.3°C** | 35.3°C | 22% | 0.7 km/h | 0.0 mm | 0.0 |
+| **40.3°C** | 42.9°C | 30% | 10.2 km/h | 0.0 mm | 6.15 |
 
-> Clear Sky ☀️
+> Thunderstorm ⛈️
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:55 PM EDT &nbsp;|&nbsp; 📅 Wednesday, May 27 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 05:39 AM EDT &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.8°C** | 27.6°C | 49% | 17.2 km/h | 0.0 mm | 3.5 |
+| **18.9°C** | 17.9°C | 64% | 10.5 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:55 AM AEST &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:39 PM AEST &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.3°C** | 18.2°C | 94% | 9.2 km/h | 0.1 mm | 0.0 |
+| **18.4°C** | 17.9°C | 89% | 19.1 km/h | 0.1 mm | 0.0 |
 
 > Light Drizzle 🌦️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 08:55 PM WAT &nbsp;|&nbsp; 📅 Wednesday, May 27 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 10:39 AM WAT &nbsp;|&nbsp; 📅 Thursday, May 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.8°C** | 33.9°C | 87% | 6.1 km/h | 0.0 mm | 0.0 |
+| **28.9°C** | 34.2°C | 77% | 6.9 km/h | 0.0 mm | 4.65 |
 
-> Partly Cloudy ⛅
+> Overcast ☁️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-27 19:55 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-05-28 09:39 UTC*
 
 </div>
