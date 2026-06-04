@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-06-03 20:43 UTC
+> **🌅 Morning Update** — 2026-06-04 09:38 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 02:28 AM NPT | 19.6°C | Clear Sky ☀️ |
-| 🇮🇳 | **New Delhi** | India | 02:13 AM IST | 31.1°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 04:43 PM EDT | 28.9°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 06:43 AM AEST | 12.2°C | Mainly Clear 🌤️ |
-| 🇳🇬 | **Lagos** | Nigeria | 09:43 PM WAT | 26.6°C | Rain Showers 🌦️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 03:23 PM NPT | 25.0°C | Light Drizzle 🌦️ |
+| 🇮🇳 | **New Delhi** | India | 03:08 PM IST | 38.8°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 05:38 AM EDT | 15.9°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 07:38 PM AEST | 13.1°C | Partly Cloudy ⛅ |
+| 🇳🇬 | **Lagos** | Nigeria | 10:38 AM WAT | 26.5°C | Overcast ☁️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:28 AM NPT &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:23 PM NPT &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.6°C** | 22.4°C | 91% | 1.1 km/h | 0.0 mm | 0.0 |
+| **25.0°C** | 27.8°C | 67% | 2.4 km/h | 0.1 mm | 5.7 |
 
-> Clear Sky ☀️
+> Light Drizzle 🌦️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:13 AM IST &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:08 PM IST &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **31.1°C** | 34.2°C | 51% | 4.2 km/h | 0.0 mm | 0.0 |
+| **38.8°C** | 40.7°C | 27% | 6.9 km/h | 0.0 mm | 5.75 |
 
 > Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:43 PM EDT &nbsp;|&nbsp; 📅 Wednesday, Jun 03 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 05:38 AM EDT &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.9°C** | 27.4°C | 21% | 5.8 km/h | 0.0 mm | 4.6 |
+| **15.9°C** | 14.2°C | 57% | 7.1 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 06:43 AM AEST &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:38 PM AEST &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **12.2°C** | 9.5°C | 71% | 14.0 km/h | 0.0 mm | 0.0 |
+| **13.1°C** | 9.2°C | 64% | 20.9 km/h | 0.0 mm | 0.0 |
 
-> Mainly Clear 🌤️
+> Partly Cloudy ⛅
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌙 Night &nbsp;|&nbsp; 🕐 09:43 PM WAT &nbsp;|&nbsp; 📅 Wednesday, Jun 03 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 10:38 AM WAT &nbsp;|&nbsp; 📅 Thursday, Jun 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.6°C** | 32.1°C | 90% | 7.8 km/h | 0.5 mm | 0.0 |
+| **26.5°C** | 31.0°C | 85% | 9.3 km/h | 0.0 mm | 3.65 |
 
-> Rain Showers 🌦️
+> Overcast ☁️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-06-03 20:43 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-06-04 09:38 UTC*
 
 </div>
