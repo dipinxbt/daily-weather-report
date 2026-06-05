@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-06-05 09:00 UTC
+> **🌆 Evening Update** — 2026-06-05 19:27 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 02:45 PM NPT | 26.1°C | Drizzle 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 02:30 PM IST | 35.7°C | Partly Cloudy ⛅ |
-| 🇺🇸 | **New York** | USA | 05:00 AM EDT | 17.0°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 07:00 PM AEST | 13.6°C | Overcast ☁️ |
-| 🇳🇬 | **Lagos** | Nigeria | 10:00 AM WAT | 28.4°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 01:12 AM NPT | 20.0°C | Mainly Clear 🌤️ |
+| 🇮🇳 | **New Delhi** | India | 12:57 AM IST | 30.3°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 03:27 PM EDT | 32.5°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 05:27 AM AEST | 8.8°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 08:27 PM WAT | 28.0°C | Overcast ☁️ |
 
 ---
 
@@ -22,55 +22,55 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:45 PM NPT &nbsp;|&nbsp; 📅 Friday, Jun 05 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 01:12 AM NPT &nbsp;|&nbsp; 📅 Saturday, Jun 06 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.1°C** | 28.3°C | 65% | 9.5 km/h | 0.2 mm | 4.05 |
+| **20.0°C** | 23.6°C | 98% | 1.6 km/h | 0.0 mm | 0.0 |
 
-> Drizzle 🌦️
+> Mainly Clear 🌤️
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:30 PM IST &nbsp;|&nbsp; 📅 Friday, Jun 05 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:57 AM IST &nbsp;|&nbsp; 📅 Saturday, Jun 06 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **35.7°C** | 37.9°C | 33% | 7.4 km/h | 0.0 mm | 6.1 |
-
-> Partly Cloudy ⛅
-
-
-### 🇺🇸 New York, USA
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:00 AM EDT &nbsp;|&nbsp; 📅 Friday, Jun 05 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **17.0°C** | 17.7°C | 79% | 3.1 km/h | 0.0 mm | 0.0 |
+| **30.3°C** | 34.5°C | 62% | 5.2 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇺🇸 New York, USA
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:00 PM AEST &nbsp;|&nbsp; 📅 Friday, Jun 05 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:27 PM EDT &nbsp;|&nbsp; 📅 Friday, Jun 05 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **13.6°C** | 10.4°C | 61% | 15.1 km/h | 0.0 mm | 0.0 |
+| **32.5°C** | 31.6°C | 19% | 10.6 km/h | 0.0 mm | 6.4 |
 
 > Overcast ☁️
 
 
-### 🇳🇬 Lagos, Nigeria
+### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 10:00 AM WAT &nbsp;|&nbsp; 📅 Friday, Jun 05 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 05:27 AM AEST &nbsp;|&nbsp; 📅 Saturday, Jun 06 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.4°C** | 33.9°C | 78% | 4.5 km/h | 0.0 mm | 4.95 |
+| **8.8°C** | 5.3°C | 79% | 16.4 km/h | 0.0 mm | 0.0 |
+
+> Clear Sky ☀️
+
+
+### 🇳🇬 Lagos, Nigeria
+
+**🌇 Evening &nbsp;|&nbsp; 🕐 08:27 PM WAT &nbsp;|&nbsp; 📅 Friday, Jun 05 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **28.0°C** | 33.1°C | 81% | 8.1 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
@@ -79,6 +79,6 @@
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-06-05 09:00 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-06-05 19:27 UTC*
 
 </div>
