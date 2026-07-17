@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-07-17 07:48 UTC
+> **🌆 Evening Update** — 2026-07-17 18:48 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:33 PM NPT | 24.5°C | Rain Showers 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 01:18 PM IST | 37.7°C | Light Drizzle 🌦️ |
-| 🇺🇸 | **New York** | USA | 03:48 AM EDT | 21.0°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 05:48 PM AEST | 14.1°C | Light Drizzle 🌦️ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:48 AM WAT | 24.6°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:33 AM NPT | 22.0°C | Light Drizzle 🌦️ |
+| 🇮🇳 | **New Delhi** | India | 12:18 AM IST | 31.7°C | Overcast ☁️ |
+| 🇺🇸 | **New York** | USA | 02:48 PM EDT | 31.5°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 04:48 AM AEST | 11.9°C | Mainly Clear 🌤️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:48 PM WAT | 26.2°C | Overcast ☁️ |
 
 ---
 
@@ -22,55 +22,55 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:33 PM NPT &nbsp;|&nbsp; 📅 Friday, Jul 17 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:33 AM NPT &nbsp;|&nbsp; 📅 Saturday, Jul 18 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **24.5°C** | 28.2°C | 83% | 6.7 km/h | 0.4 mm | 5.45 |
-
-> Rain Showers 🌦️
-
-
-### 🇮🇳 New Delhi, India
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:18 PM IST &nbsp;|&nbsp; 📅 Friday, Jul 17 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **37.7°C** | 42.0°C | 39% | 12.3 km/h | 0.1 mm | 4.15 |
+| **22.0°C** | 26.3°C | 96% | 2.0 km/h | 0.1 mm | 0.0 |
 
 > Light Drizzle 🌦️
 
 
-### 🇺🇸 New York, USA
+### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 03:48 AM EDT &nbsp;|&nbsp; 📅 Friday, Jul 17 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:18 AM IST &nbsp;|&nbsp; 📅 Saturday, Jul 18 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **21.0°C** | 22.2°C | 76% | 8.2 km/h | 0.0 mm | 0.0 |
+| **31.7°C** | 36.3°C | 60% | 6.2 km/h | 0.0 mm | 0.0 |
+
+> Overcast ☁️
+
+
+### 🇺🇸 New York, USA
+
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:48 PM EDT &nbsp;|&nbsp; 📅 Friday, Jul 17 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **31.5°C** | 30.7°C | 22% | 13.2 km/h | 0.0 mm | 7.1 |
 
 > Clear Sky ☀️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 05:48 PM AEST &nbsp;|&nbsp; 📅 Friday, Jul 17 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:48 AM AEST &nbsp;|&nbsp; 📅 Saturday, Jul 18 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **14.1°C** | 13.8°C | 88% | 6.7 km/h | 0.1 mm | 0.0 |
+| **11.9°C** | 11.4°C | 93% | 5.0 km/h | 0.0 mm | 0.0 |
 
-> Light Drizzle 🌦️
+> Mainly Clear 🌤️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 08:48 AM WAT &nbsp;|&nbsp; 📅 Friday, Jul 17 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:48 PM WAT &nbsp;|&nbsp; 📅 Friday, Jul 17 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **24.6°C** | 29.4°C | 95% | 7.7 km/h | 0.0 mm | 1.0 |
+| **26.2°C** | 30.6°C | 87% | 10.6 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
@@ -79,6 +79,6 @@
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-07-17 07:48 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-07-17 18:48 UTC*
 
 </div>
