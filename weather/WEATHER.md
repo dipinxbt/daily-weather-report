@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-09-09 20:06 UTC
+> **🌅 Morning Update** — 2026-09-10 10:08 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:51 AM NPT | 20.2°C | Thunderstorm ⛈️ |
-| 🇮🇳 | **New Delhi** | India | 01:36 AM IST | 27.2°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 04:06 PM EDT | 30.1°C | Partly Cloudy ⛅ |
-| 🇦🇺 | **Sydney** | Australia | 06:06 AM AEST | 10.5°C | Overcast ☁️ |
-| 🇳🇬 | **Lagos** | Nigeria | 09:06 PM WAT | 25.9°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 03:53 PM NPT | 22.4°C | Rain Showers 🌦️ |
+| 🇮🇳 | **New Delhi** | India | 03:38 PM IST | 34.0°C | Partly Cloudy ⛅ |
+| 🇺🇸 | **New York** | USA | 06:08 AM EDT | 22.2°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 08:08 PM AEST | 14.0°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 11:08 AM WAT | 26.4°C | Drizzle 🌦️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:51 AM NPT &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:53 PM NPT &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **20.2°C** | 23.6°C | 98% | 2.8 km/h | 0.5 mm | 0.0 |
+| **22.4°C** | 26.9°C | 96% | 1.5 km/h | 0.5 mm | 3.65 |
 
-> Thunderstorm ⛈️
+> Rain Showers 🌦️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:36 AM IST &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:38 PM IST &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.2°C** | 32.3°C | 81% | 4.4 km/h | 0.0 mm | 0.0 |
-
-> Clear Sky ☀️
-
-
-### 🇺🇸 New York, USA
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:06 PM EDT &nbsp;|&nbsp; 📅 Wednesday, Sep 09 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **30.1°C** | 31.0°C | 50% | 15.9 km/h | 0.0 mm | 2.65 |
+| **34.0°C** | 37.2°C | 50% | 11.1 km/h | 0.0 mm | 3.85 |
 
 > Partly Cloudy ⛅
 
 
-### 🇦🇺 Sydney, Australia
+### 🇺🇸 New York, USA
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 06:06 AM AEST &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 06:08 AM EDT &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **10.5°C** | 7.4°C | 61% | 10.0 km/h | 0.0 mm | 0.0 |
+| **22.2°C** | 22.6°C | 77% | 17.5 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌇 Evening &nbsp;|&nbsp; 🕐 08:08 PM AEST &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **14.0°C** | 12.6°C | 73% | 7.8 km/h | 0.0 mm | 0.0 |
+
+> Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌙 Night &nbsp;|&nbsp; 🕐 09:06 PM WAT &nbsp;|&nbsp; 📅 Wednesday, Sep 09 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 11:08 AM WAT &nbsp;|&nbsp; 📅 Thursday, Sep 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.9°C** | 30.5°C | 88% | 9.3 km/h | 0.0 mm | 0.0 |
+| **26.4°C** | 31.3°C | 85% | 6.7 km/h | 0.2 mm | 6.9 |
 
-> Overcast ☁️
+> Drizzle 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-09 20:06 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-10 10:08 UTC*
 
 </div>
