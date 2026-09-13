@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-09-12 19:45 UTC
+> **🌅 Morning Update** — 2026-09-13 10:42 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:30 AM NPT | 19.3°C | Drizzle 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 01:15 AM IST | 27.6°C | Overcast ☁️ |
-| 🇺🇸 | **New York** | USA | 03:45 PM EDT | 24.9°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 05:45 AM AEST | 11.8°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:45 PM WAT | 26.2°C | Partly Cloudy ⛅ |
+| 🇳🇵 | **Kathmandu** | Nepal | 04:27 PM NPT | 22.9°C | Heavy Drizzle 🌧️ |
+| 🇮🇳 | **New Delhi** | India | 04:12 PM IST | 32.0°C | Overcast ☁️ |
+| 🇺🇸 | **New York** | USA | 06:42 AM EDT | 21.2°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 08:42 PM AEST | 17.8°C | Partly Cloudy ⛅ |
+| 🇳🇬 | **Lagos** | Nigeria | 11:42 AM WAT | 26.2°C | Rain Showers 🌦️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:30 AM NPT &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:27 PM NPT &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.3°C** | 22.2°C | 99% | 4.4 km/h | 0.2 mm | 0.0 |
+| **22.9°C** | 26.6°C | 85% | 2.3 km/h | 0.3 mm | 2.45 |
 
-> Drizzle 🌦️
+> Heavy Drizzle 🌧️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:15 AM IST &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:12 PM IST &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.6°C** | 33.5°C | 88% | 7.2 km/h | 0.0 mm | 0.0 |
+| **32.0°C** | 36.6°C | 62% | 9.0 km/h | 0.0 mm | 2.7 |
 
 > Overcast ☁️
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:45 PM EDT &nbsp;|&nbsp; 📅 Saturday, Sep 12 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 06:42 AM EDT &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **24.9°C** | 24.1°C | 56% | 18.6 km/h | 0.0 mm | 4.0 |
+| **21.2°C** | 24.1°C | 93% | 6.7 km/h | 0.0 mm | 0.0 |
 
-> Clear Sky ☀️
+> Overcast ☁️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:45 AM AEST &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 08:42 PM AEST &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **11.8°C** | 11.3°C | 94% | 4.6 km/h | 0.0 mm | 0.0 |
+| **17.8°C** | 16.1°C | 79% | 20.7 km/h | 0.0 mm | 0.0 |
 
-> Clear Sky ☀️
+> Partly Cloudy ⛅
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 08:45 PM WAT &nbsp;|&nbsp; 📅 Saturday, Sep 12 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 11:42 AM WAT &nbsp;|&nbsp; 📅 Sunday, Sep 13 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.2°C** | 31.2°C | 88% | 7.7 km/h | 0.0 mm | 0.0 |
+| **26.2°C** | 31.1°C | 85% | 5.7 km/h | 0.6 mm | 6.0 |
 
-> Partly Cloudy ⛅
+> Rain Showers 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-12 19:45 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-13 10:42 UTC*
 
 </div>
