@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-09-19 09:49 UTC
+> **🌆 Evening Update** — 2026-09-19 19:40 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 03:34 PM NPT | 23.9°C | Mainly Clear 🌤️ |
-| 🇮🇳 | **New Delhi** | India | 03:19 PM IST | 32.6°C | Mainly Clear 🌤️ |
-| 🇺🇸 | **New York** | USA | 05:49 AM EDT | 16.8°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 07:49 PM AEST | 23.2°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 10:49 AM WAT | 28.3°C | Light Drizzle 🌦️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 01:25 AM NPT | 19.0°C | Partly Cloudy ⛅ |
+| 🇮🇳 | **New Delhi** | India | 01:10 AM IST | 26.3°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 03:40 PM EDT | 21.8°C | Mainly Clear 🌤️ |
+| 🇦🇺 | **Sydney** | Australia | 05:40 AM AEST | 15.6°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 08:40 PM WAT | 25.8°C | Mainly Clear 🌤️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:34 PM NPT &nbsp;|&nbsp; 📅 Saturday, Sep 19 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 01:25 AM NPT &nbsp;|&nbsp; 📅 Sunday, Sep 20 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.9°C** | 26.3°C | 73% | 5.6 km/h | 0.0 mm | 3.95 |
+| **19.0°C** | 21.5°C | 99% | 5.6 km/h | 0.0 mm | 0.0 |
 
-> Mainly Clear 🌤️
+> Partly Cloudy ⛅
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:19 PM IST &nbsp;|&nbsp; 📅 Saturday, Sep 19 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 01:10 AM IST &nbsp;|&nbsp; 📅 Sunday, Sep 20 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **32.6°C** | 35.8°C | 47% | 3.3 km/h | 0.0 mm | 3.85 |
-
-> Mainly Clear 🌤️
-
-
-### 🇺🇸 New York, USA
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:49 AM EDT &nbsp;|&nbsp; 📅 Saturday, Sep 19 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **16.8°C** | 14.7°C | 58% | 11.4 km/h | 0.0 mm | 0.0 |
+| **26.3°C** | 31.3°C | 82% | 2.3 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇺🇸 New York, USA
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:49 PM AEST &nbsp;|&nbsp; 📅 Saturday, Sep 19 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:40 PM EDT &nbsp;|&nbsp; 📅 Saturday, Sep 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.2°C** | 19.2°C | 27% | 16.5 km/h | 0.0 mm | 0.0 |
+| **21.8°C** | 21.7°C | 52% | 4.1 km/h | 0.0 mm | 3.25 |
+
+> Mainly Clear 🌤️
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌅 Morning &nbsp;|&nbsp; 🕐 05:40 AM AEST &nbsp;|&nbsp; 📅 Sunday, Sep 20 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **15.6°C** | 13.5°C | 50% | 6.7 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 10:49 AM WAT &nbsp;|&nbsp; 📅 Saturday, Sep 19 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 08:40 PM WAT &nbsp;|&nbsp; 📅 Saturday, Sep 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.3°C** | 34.4°C | 78% | 5.5 km/h | 0.1 mm | 2.0 |
+| **25.8°C** | 30.7°C | 91% | 9.6 km/h | 0.0 mm | 0.0 |
 
-> Light Drizzle 🌦️
+> Mainly Clear 🌤️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-19 09:49 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-19 19:40 UTC*
 
 </div>
