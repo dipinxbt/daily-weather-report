@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-09-24 10:37 UTC
+> **🌆 Evening Update** — 2026-09-24 20:50 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 04:22 PM NPT | 20.7°C | Heavy Drizzle 🌧️ |
-| 🇮🇳 | **New Delhi** | India | 04:07 PM IST | 34.4°C | Mainly Clear 🌤️ |
-| 🇺🇸 | **New York** | USA | 06:37 AM EDT | 10.0°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 08:37 PM AEST | 18.4°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 11:37 AM WAT | 26.6°C | Rain Showers 🌦️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 02:35 AM NPT | 17.8°C | Rain 🌧️ |
+| 🇮🇳 | **New Delhi** | India | 02:20 AM IST | 26.1°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 04:50 PM EDT | 20.0°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 06:50 AM AEST | 16.0°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 09:50 PM WAT | 25.6°C | Partly Cloudy ⛅ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:22 PM NPT &nbsp;|&nbsp; 📅 Thursday, Sep 24 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 02:35 AM NPT &nbsp;|&nbsp; 📅 Friday, Sep 25 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **20.7°C** | 24.0°C | 95% | 3.4 km/h | 0.3 mm | 0.15 |
+| **17.8°C** | 19.7°C | 98% | 6.1 km/h | 0.7 mm | 0.0 |
 
-> Heavy Drizzle 🌧️
+> Rain 🌧️
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:07 PM IST &nbsp;|&nbsp; 📅 Thursday, Sep 24 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 02:20 AM IST &nbsp;|&nbsp; 📅 Friday, Sep 25 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **34.4°C** | 36.9°C | 39% | 3.6 km/h | 0.0 mm | 2.5 |
-
-> Mainly Clear 🌤️
-
-
-### 🇺🇸 New York, USA
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 06:37 AM EDT &nbsp;|&nbsp; 📅 Thursday, Sep 24 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **10.0°C** | 7.1°C | 83% | 15.2 km/h | 0.0 mm | 0.0 |
+| **26.1°C** | 29.4°C | 78% | 10.4 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇺🇸 New York, USA
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 08:37 PM AEST &nbsp;|&nbsp; 📅 Thursday, Sep 24 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:50 PM EDT &nbsp;|&nbsp; 📅 Thursday, Sep 24 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **18.4°C** | 17.8°C | 88% | 19.3 km/h | 0.0 mm | 0.0 |
+| **20.0°C** | 16.3°C | 41% | 19.1 km/h | 0.0 mm | 1.4 |
+
+> Overcast ☁️
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌅 Morning &nbsp;|&nbsp; 🕐 06:50 AM AEST &nbsp;|&nbsp; 📅 Friday, Sep 25 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **16.0°C** | 16.7°C | 92% | 5.2 km/h | 0.0 mm | 0.7 |
 
 > Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 11:37 AM WAT &nbsp;|&nbsp; 📅 Thursday, Sep 24 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:50 PM WAT &nbsp;|&nbsp; 📅 Thursday, Sep 24 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.6°C** | 30.9°C | 81% | 8.1 km/h | 0.4 mm | 7.5 |
+| **25.6°C** | 30.6°C | 90% | 6.6 km/h | 0.0 mm | 0.0 |
 
-> Rain Showers 🌦️
+> Partly Cloudy ⛅
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-24 10:37 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-24 20:50 UTC*
 
 </div>
