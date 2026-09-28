@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-09-27 20:30 UTC
+> **🌆 Evening Update** — 2026-09-28 12:09 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 02:15 AM NPT | 16.0°C | Overcast ☁️ |
-| 🇮🇳 | **New Delhi** | India | 02:00 AM IST | 22.1°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 04:31 PM EDT | 17.0°C | Rain 🌧️ |
-| 🇦🇺 | **Sydney** | Australia | 06:31 AM AEST | 15.0°C | Overcast ☁️ |
-| 🇳🇬 | **Lagos** | Nigeria | 09:31 PM WAT | 25.2°C | Rain Showers 🌦️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:54 PM NPT | 21.7°C | Clear Sky ☀️ |
+| 🇮🇳 | **New Delhi** | India | 05:39 PM IST | 23.9°C | Drizzle 🌦️ |
+| 🇺🇸 | **New York** | USA | 08:09 AM EDT | 14.4°C | Heavy Drizzle 🌧️ |
+| 🇦🇺 | **Sydney** | Australia | 10:09 PM AEST | 14.3°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 01:09 PM WAT | 27.1°C | Light Drizzle 🌦️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:15 AM NPT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:54 PM NPT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **16.0°C** | 17.7°C | 99% | 2.8 km/h | 0.0 mm | 0.0 |
-
-> Overcast ☁️
-
-
-### 🇮🇳 New Delhi, India
-
-**🌙 Night &nbsp;|&nbsp; 🕐 02:00 AM IST &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **22.1°C** | 26.0°C | 96% | 4.7 km/h | 0.0 mm | 0.0 |
+| **21.7°C** | 25.3°C | 93% | 3.6 km/h | 0.0 mm | 0.1 |
 
 > Clear Sky ☀️
 
 
-### 🇺🇸 New York, USA
+### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:31 PM EDT &nbsp;|&nbsp; 📅 Sunday, Sep 27 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:39 PM IST &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.0°C** | 15.5°C | 94% | 25.0 km/h | 0.9 mm | 0.1 |
+| **23.9°C** | 27.8°C | 89% | 7.1 km/h | 0.2 mm | 0.5 |
 
-> Rain 🌧️
+> Drizzle 🌦️
+
+
+### 🇺🇸 New York, USA
+
+**🌅 Morning &nbsp;|&nbsp; 🕐 08:09 AM EDT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **14.4°C** | 13.3°C | 94% | 15.2 km/h | 0.3 mm | 0.0 |
+
+> Heavy Drizzle 🌧️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 06:31 AM AEST &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 10:09 PM AEST &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **15.0°C** | 13.0°C | 66% | 11.5 km/h | 0.0 mm | 0.3 |
+| **14.3°C** | 13.7°C | 78% | 5.1 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌙 Night &nbsp;|&nbsp; 🕐 09:31 PM WAT &nbsp;|&nbsp; 📅 Sunday, Sep 27 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:09 PM WAT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.2°C** | 29.8°C | 93% | 9.5 km/h | 0.5 mm | 0.0 |
+| **27.1°C** | 29.6°C | 80% | 21.1 km/h | 0.1 mm | 1.25 |
 
-> Rain Showers 🌦️
+> Light Drizzle 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-27 20:30 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-28 12:09 UTC*
 
 </div>
