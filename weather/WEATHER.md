@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-09-28 12:09 UTC
+> **🌆 Evening Update** — 2026-09-28 22:40 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 05:54 PM NPT | 21.7°C | Clear Sky ☀️ |
-| 🇮🇳 | **New Delhi** | India | 05:39 PM IST | 23.9°C | Drizzle 🌦️ |
-| 🇺🇸 | **New York** | USA | 08:09 AM EDT | 14.4°C | Heavy Drizzle 🌧️ |
-| 🇦🇺 | **Sydney** | Australia | 10:09 PM AEST | 14.3°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 01:09 PM WAT | 27.1°C | Light Drizzle 🌦️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 04:25 AM NPT | 16.5°C | Overcast ☁️ |
+| 🇮🇳 | **New Delhi** | India | 04:10 AM IST | 21.6°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 06:40 PM EDT | 16.0°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 08:40 AM AEST | 15.5°C | Mainly Clear 🌤️ |
+| 🇳🇬 | **Lagos** | Nigeria | 11:40 PM WAT | 24.7°C | Overcast ☁️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 05:54 PM NPT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:25 AM NPT &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **21.7°C** | 25.3°C | 93% | 3.6 km/h | 0.0 mm | 0.1 |
+| **16.5°C** | 18.6°C | 100% | 1.5 km/h | 0.0 mm | 0.0 |
 
-> Clear Sky ☀️
+> Overcast ☁️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 05:39 PM IST &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:10 AM IST &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.9°C** | 27.8°C | 89% | 7.1 km/h | 0.2 mm | 0.5 |
-
-> Drizzle 🌦️
-
-
-### 🇺🇸 New York, USA
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 08:09 AM EDT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **14.4°C** | 13.3°C | 94% | 15.2 km/h | 0.3 mm | 0.0 |
-
-> Heavy Drizzle 🌧️
-
-
-### 🇦🇺 Sydney, Australia
-
-**🌙 Night &nbsp;|&nbsp; 🕐 10:09 PM AEST &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **14.3°C** | 13.7°C | 78% | 5.1 km/h | 0.0 mm | 0.0 |
+| **21.6°C** | 25.1°C | 96% | 6.0 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
-### 🇳🇬 Lagos, Nigeria
+### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 01:09 PM WAT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 06:40 PM EDT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.1°C** | 29.6°C | 80% | 21.1 km/h | 0.1 mm | 1.25 |
+| **16.0°C** | 16.0°C | 91% | 10.4 km/h | 0.0 mm | 0.05 |
 
-> Light Drizzle 🌦️
+> Overcast ☁️
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌅 Morning &nbsp;|&nbsp; 🕐 08:40 AM AEST &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **15.5°C** | 15.6°C | 77% | 2.1 km/h | 0.0 mm | 3.5 |
+
+> Mainly Clear 🌤️
+
+
+### 🇳🇬 Lagos, Nigeria
+
+**🌙 Night &nbsp;|&nbsp; 🕐 11:40 PM WAT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **24.7°C** | 28.4°C | 93% | 14.9 km/h | 0.0 mm | 0.0 |
+
+> Overcast ☁️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-28 12:09 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-28 22:40 UTC*
 
 </div>
