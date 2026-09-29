@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-09-28 22:40 UTC
+> **🌅 Morning Update** — 2026-09-29 11:40 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 04:25 AM NPT | 16.5°C | Overcast ☁️ |
-| 🇮🇳 | **New Delhi** | India | 04:10 AM IST | 21.6°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 06:40 PM EDT | 16.0°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 08:40 AM AEST | 15.5°C | Mainly Clear 🌤️ |
-| 🇳🇬 | **Lagos** | Nigeria | 11:40 PM WAT | 24.7°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:26 PM NPT | 22.4°C | Mainly Clear 🌤️ |
+| 🇮🇳 | **New Delhi** | India | 05:11 PM IST | 29.4°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 07:41 AM EDT | 15.4°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 09:41 PM AEST | 15.7°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 12:41 PM WAT | 25.5°C | Light Rain 🌧️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 04:25 AM NPT &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:26 PM NPT &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **16.5°C** | 18.6°C | 100% | 1.5 km/h | 0.0 mm | 0.0 |
+| **22.4°C** | 25.7°C | 86% | 4.5 km/h | 0.0 mm | 0.5 |
 
-> Overcast ☁️
+> Mainly Clear 🌤️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 04:10 AM IST &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:11 PM IST &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **21.6°C** | 25.1°C | 96% | 6.0 km/h | 0.0 mm | 0.0 |
+| **29.4°C** | 32.5°C | 63% | 10.2 km/h | 0.0 mm | 0.95 |
 
 > Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 06:40 PM EDT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:41 AM EDT &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **16.0°C** | 16.0°C | 91% | 10.4 km/h | 0.0 mm | 0.05 |
+| **15.4°C** | 15.8°C | 95% | 7.3 km/h | 0.0 mm | 0.2 |
 
 > Overcast ☁️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 08:40 AM AEST &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:41 PM AEST &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **15.5°C** | 15.6°C | 77% | 2.1 km/h | 0.0 mm | 3.5 |
+| **15.7°C** | 13.8°C | 71% | 14.0 km/h | 0.0 mm | 0.0 |
 
-> Mainly Clear 🌤️
+> Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌙 Night &nbsp;|&nbsp; 🕐 11:40 PM WAT &nbsp;|&nbsp; 📅 Monday, Sep 28 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:41 PM WAT &nbsp;|&nbsp; 📅 Tuesday, Sep 29 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **24.7°C** | 28.4°C | 93% | 14.9 km/h | 0.0 mm | 0.0 |
+| **25.5°C** | 29.1°C | 87% | 13.4 km/h | 0.4 mm | 7.4 |
 
-> Overcast ☁️
+> Light Rain 🌧️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-28 22:40 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-29 11:40 UTC*
 
 </div>
