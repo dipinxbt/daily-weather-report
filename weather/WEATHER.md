@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-10-10 20:46 UTC
+> **🌅 Morning Update** — 2026-10-11 11:41 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 02:31 AM NPT | 13.9°C | Mainly Clear 🌤️ |
-| 🇮🇳 | **New Delhi** | India | 02:16 AM IST | 24.0°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 04:46 PM EDT | 20.3°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 06:46 AM AEST | 18.2°C | Mainly Clear 🌤️ |
-| 🇳🇬 | **Lagos** | Nigeria | 09:46 PM WAT | 26.7°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:26 PM NPT | 19.3°C | Clear Sky ☀️ |
+| 🇮🇳 | **New Delhi** | India | 05:11 PM IST | 30.1°C | Partly Cloudy ⛅ |
+| 🇺🇸 | **New York** | USA | 07:41 AM EDT | 13.4°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 09:41 PM AEST | 19.6°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 12:41 PM WAT | 28.5°C | Light Drizzle 🌦️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:31 AM NPT &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:26 PM NPT &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **13.9°C** | 15.0°C | 97% | 0.2 km/h | 0.0 mm | 0.0 |
-
-> Mainly Clear 🌤️
-
-
-### 🇮🇳 New Delhi, India
-
-**🌙 Night &nbsp;|&nbsp; 🕐 02:16 AM IST &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **24.0°C** | 26.7°C | 83% | 11.7 km/h | 0.0 mm | 0.0 |
+| **19.3°C** | 21.2°C | 83% | 2.1 km/h | 0.0 mm | 0.35 |
 
 > Clear Sky ☀️
 
 
-### 🇺🇸 New York, USA
+### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:46 PM EDT &nbsp;|&nbsp; 📅 Saturday, Oct 10 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:11 PM IST &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **20.3°C** | 17.7°C | 39% | 11.2 km/h | 0.0 mm | 1.2 |
+| **30.1°C** | 32.9°C | 54% | 6.2 km/h | 0.0 mm | 0.65 |
+
+> Partly Cloudy ⛅
+
+
+### 🇺🇸 New York, USA
+
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:41 AM EDT &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **13.4°C** | 12.2°C | 84% | 9.8 km/h | 0.0 mm | 0.05 |
 
 > Overcast ☁️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 06:46 AM AEST &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:41 PM AEST &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **18.2°C** | 19.6°C | 91% | 6.0 km/h | 0.0 mm | 1.15 |
+| **19.6°C** | 20.9°C | 86% | 8.6 km/h | 0.0 mm | 0.0 |
 
-> Mainly Clear 🌤️
+> Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌙 Night &nbsp;|&nbsp; 🕐 09:46 PM WAT &nbsp;|&nbsp; 📅 Saturday, Oct 10 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:41 PM WAT &nbsp;|&nbsp; 📅 Sunday, Oct 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.7°C** | 32.4°C | 90% | 7.1 km/h | 0.0 mm | 0.0 |
+| **28.5°C** | 33.4°C | 76% | 9.1 km/h | 0.1 mm | 8.4 |
 
-> Overcast ☁️
+> Light Drizzle 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-10-10 20:46 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-10-11 11:41 UTC*
 
 </div>
