@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-10-18 19:45 UTC
+> **🌅 Morning Update** — 2026-10-19 11:23 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:30 AM NPT | 13.4°C | Foggy 🌫️ |
-| 🇮🇳 | **New Delhi** | India | 01:15 AM IST | 21.8°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 03:45 PM EDT | 15.6°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 05:46 AM AEST | 12.7°C | Mainly Clear 🌤️ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:46 PM WAT | 27.1°C | Partly Cloudy ⛅ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:08 PM NPT | 19.8°C | Clear Sky ☀️ |
+| 🇮🇳 | **New Delhi** | India | 04:53 PM IST | 27.7°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 07:23 AM EDT | 4.6°C | Mainly Clear 🌤️ |
+| 🇦🇺 | **Sydney** | Australia | 09:23 PM AEST | 17.5°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 12:23 PM WAT | 29.1°C | Thunderstorm ⛈️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:30 AM NPT &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:08 PM NPT &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **13.4°C** | 13.9°C | 99% | 3.5 km/h | 0.0 mm | 0.0 |
+| **19.8°C** | 20.7°C | 75% | 5.9 km/h | 0.0 mm | 0.45 |
 
-> Foggy 🌫️
+> Clear Sky ☀️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:15 AM IST &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:53 PM IST &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **21.8°C** | 23.6°C | 73% | 4.0 km/h | 0.0 mm | 0.0 |
+| **27.7°C** | 29.6°C | 54% | 5.6 km/h | 0.0 mm | 0.8 |
 
 > Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:45 PM EDT &nbsp;|&nbsp; 📅 Sunday, Oct 18 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:23 AM EDT &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **15.6°C** | 12.2°C | 33% | 8.3 km/h | 0.0 mm | 2.4 |
-
-> Clear Sky ☀️
-
-
-### 🇦🇺 Sydney, Australia
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:46 AM AEST &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **12.7°C** | 12.7°C | 96% | 4.8 km/h | 0.0 mm | 0.2 |
+| **4.6°C** | 2.4°C | 95% | 5.4 km/h | 0.0 mm | 0.0 |
 
 > Mainly Clear 🌤️
 
 
-### 🇳🇬 Lagos, Nigeria
+### 🇦🇺 Sydney, Australia
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 08:46 PM WAT &nbsp;|&nbsp; 📅 Sunday, Oct 18 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:23 PM AEST &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.1°C** | 33.1°C | 88% | 5.2 km/h | 0.0 mm | 0.0 |
+| **17.5°C** | 17.0°C | 80% | 12.4 km/h | 0.0 mm | 0.0 |
 
-> Partly Cloudy ⛅
+> Clear Sky ☀️
+
+
+### 🇳🇬 Lagos, Nigeria
+
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:23 PM WAT &nbsp;|&nbsp; 📅 Monday, Oct 19 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **29.1°C** | 36.4°C | 77% | 6.7 km/h | 1.1 mm | 8.3 |
+
+> Thunderstorm ⛈️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-10-18 19:45 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-10-19 11:23 UTC*
 
 </div>
