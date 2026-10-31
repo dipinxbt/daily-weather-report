@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-10-30 21:44 UTC
+> **🌅 Morning Update** — 2026-10-31 11:18 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 03:29 AM NPT | 15.2°C | Rain Showers 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 03:14 AM IST | 19.3°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 05:44 PM EDT | 16.0°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 07:44 AM AEST | 20.0°C | Overcast ☁️ |
-| 🇳🇬 | **Lagos** | Nigeria | 10:44 PM WAT | 27.0°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:03 PM NPT | 19.0°C | Clear Sky ☀️ |
+| 🇮🇳 | **New Delhi** | India | 04:48 PM IST | 25.8°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 07:18 AM EDT | 6.7°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 09:18 PM AEST | 19.5°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 12:18 PM WAT | 28.8°C | Overcast ☁️ |
 
 ---
 
@@ -22,55 +22,55 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 03:29 AM NPT &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:03 PM NPT &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **15.2°C** | 16.0°C | 99% | 6.5 km/h | 1.6 mm | 0.0 |
+| **19.0°C** | 20.9°C | 84% | 1.5 km/h | 0.0 mm | 0.3 |
 
-> Rain Showers 🌦️
+> Clear Sky ☀️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 03:14 AM IST &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:48 PM IST &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.3°C** | 21.1°C | 88% | 4.7 km/h | 0.0 mm | 0.0 |
+| **25.8°C** | 28.4°C | 66% | 5.0 km/h | 0.0 mm | 0.6 |
 
 > Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 05:44 PM EDT &nbsp;|&nbsp; 📅 Friday, Oct 30 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:18 AM EDT &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **16.0°C** | 11.2°C | 43% | 22.4 km/h | 0.0 mm | 0.25 |
+| **6.7°C** | 3.6°C | 70% | 8.4 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 07:44 AM AEST &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:18 PM AEST &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **20.0°C** | 20.6°C | 70% | 5.6 km/h | 0.0 mm | 3.05 |
+| **19.5°C** | 21.8°C | 91% | 3.9 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌙 Night &nbsp;|&nbsp; 🕐 10:44 PM WAT &nbsp;|&nbsp; 📅 Friday, Oct 30 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:18 PM WAT &nbsp;|&nbsp; 📅 Saturday, Oct 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.0°C** | 32.4°C | 88% | 7.8 km/h | 0.0 mm | 0.0 |
+| **28.8°C** | 33.7°C | 76% | 8.0 km/h | 0.0 mm | 3.25 |
 
 > Overcast ☁️
 
@@ -79,6 +79,6 @@
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-10-30 21:44 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-10-31 11:18 UTC*
 
 </div>
