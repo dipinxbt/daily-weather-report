@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-11-02 13:58 UTC
+> **🌅 Morning Update** — 2026-11-03 00:06 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 07:43 PM NPT | 16.3°C | Clear Sky ☀️ |
-| 🇮🇳 | **New Delhi** | India | 07:28 PM IST | 23.8°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 09:58 AM EDT | 11.6°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 11:58 PM AEST | 19.1°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 02:58 PM WAT | 27.4°C | Drizzle 🌦️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:51 AM NPT | 12.5°C | Foggy 🌫️ |
+| 🇮🇳 | **New Delhi** | India | 05:36 AM IST | 18.7°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 08:06 PM EDT | 13.6°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 10:06 AM AEST | 24.4°C | Mainly Clear 🌤️ |
+| 🇳🇬 | **Lagos** | Nigeria | 01:06 AM WAT | 27.4°C | Mainly Clear 🌤️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:43 PM NPT &nbsp;|&nbsp; 📅 Monday, Nov 02 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 05:51 AM NPT &nbsp;|&nbsp; 📅 Tuesday, Nov 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **16.3°C** | 18.2°C | 98% | 1.3 km/h | 0.0 mm | 0.0 |
+| **12.5°C** | 12.7°C | 100% | 3.8 km/h | 0.0 mm | 0.0 |
 
-> Clear Sky ☀️
+> Foggy 🌫️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:28 PM IST &nbsp;|&nbsp; 📅 Monday, Nov 02 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 05:36 AM IST &nbsp;|&nbsp; 📅 Tuesday, Nov 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.8°C** | 25.5°C | 67% | 5.2 km/h | 0.0 mm | 0.0 |
+| **18.7°C** | 19.7°C | 81% | 4.7 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 09:58 AM EDT &nbsp;|&nbsp; 📅 Monday, Nov 02 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 08:06 PM EDT &nbsp;|&nbsp; 📅 Monday, Nov 02 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **11.6°C** | 9.6°C | 67% | 6.4 km/h | 0.0 mm | 1.35 |
+| **13.6°C** | 11.3°C | 60% | 9.4 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌙 Night &nbsp;|&nbsp; 🕐 11:58 PM AEST &nbsp;|&nbsp; 📅 Monday, Nov 02 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 10:06 AM AEST &nbsp;|&nbsp; 📅 Tuesday, Nov 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.1°C** | 20.2°C | 95% | 13.0 km/h | 0.0 mm | 0.0 |
+| **24.4°C** | 27.5°C | 64% | 7.7 km/h | 0.0 mm | 4.4 |
 
-> Clear Sky ☀️
+> Mainly Clear 🌤️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:58 PM WAT &nbsp;|&nbsp; 📅 Monday, Nov 02 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 01:06 AM WAT &nbsp;|&nbsp; 📅 Tuesday, Nov 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.4°C** | 32.7°C | 85% | 7.9 km/h | 0.2 mm | 6.1 |
+| **27.4°C** | 33.9°C | 90% | 4.3 km/h | 0.0 mm | 0.0 |
 
-> Drizzle 🌦️
+> Mainly Clear 🌤️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-11-02 13:58 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-11-03 00:06 UTC*
 
 </div>
