@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-11-06 22:27 UTC
+> **🌅 Morning Update** — 2026-11-07 11:59 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 04:12 AM NPT | 11.0°C | Foggy 🌫️ |
-| 🇮🇳 | **New Delhi** | India | 03:57 AM IST | 19.9°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 06:27 PM EDT | 17.2°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 08:27 AM AEST | 22.0°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 11:27 PM WAT | 28.1°C | Clear Sky ☀️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:44 PM NPT | 17.4°C | Clear Sky ☀️ |
+| 🇮🇳 | **New Delhi** | India | 05:29 PM IST | 25.3°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 07:59 AM EDT | 12.2°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 09:59 PM AEST | 13.9°C | Mainly Clear 🌤️ |
+| 🇳🇬 | **Lagos** | Nigeria | 12:59 PM WAT | 30.4°C | Clear Sky ☀️ |
 
 ---
 
@@ -22,55 +22,55 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 04:12 AM NPT &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:44 PM NPT &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **11.0°C** | 10.5°C | 100% | 5.6 km/h | 0.0 mm | 0.0 |
+| **17.4°C** | 18.7°C | 84% | 2.3 km/h | 0.0 mm | 0.0 |
 
-> Foggy 🌫️
+> Clear Sky ☀️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 03:57 AM IST &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:29 PM IST &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.9°C** | 20.7°C | 73% | 6.0 km/h | 0.0 mm | 0.0 |
+| **25.3°C** | 27.7°C | 64% | 4.1 km/h | 0.0 mm | 0.2 |
 
 > Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 06:27 PM EDT &nbsp;|&nbsp; 📅 Friday, Nov 06 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:59 AM EDT &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.2°C** | 18.2°C | 94% | 7.4 km/h | 0.0 mm | 0.0 |
-
-> Overcast ☁️
-
-
-### 🇦🇺 Sydney, Australia
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 08:27 AM AEST &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **22.0°C** | 23.5°C | 65% | 5.3 km/h | 0.0 mm | 4.7 |
+| **12.2°C** | 12.2°C | 92% | 2.4 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
-### 🇳🇬 Lagos, Nigeria
+### 🇦🇺 Sydney, Australia
 
-**🌙 Night &nbsp;|&nbsp; 🕐 11:27 PM WAT &nbsp;|&nbsp; 📅 Friday, Nov 06 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:59 PM AEST &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.1°C** | 33.2°C | 84% | 11.0 km/h | 0.0 mm | 0.0 |
+| **13.9°C** | 10.4°C | 73% | 22.1 km/h | 0.0 mm | 0.0 |
+
+> Mainly Clear 🌤️
+
+
+### 🇳🇬 Lagos, Nigeria
+
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:59 PM WAT &nbsp;|&nbsp; 📅 Saturday, Nov 07 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **30.4°C** | 36.3°C | 71% | 11.4 km/h | 0.0 mm | 7.95 |
 
 > Clear Sky ☀️
 
@@ -79,6 +79,6 @@
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-11-06 22:27 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-11-07 11:59 UTC*
 
 </div>
