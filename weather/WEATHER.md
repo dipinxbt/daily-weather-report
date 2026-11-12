@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-11-12 14:05 UTC
+> **🌆 Evening Update** — 2026-11-12 22:55 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 07:50 PM NPT | 14.0°C | Clear Sky ☀️ |
-| 🇮🇳 | **New Delhi** | India | 07:35 PM IST | 24.2°C | Partly Cloudy ⛅ |
-| 🇺🇸 | **New York** | USA | 10:05 AM EDT | 14.2°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 12:05 AM AEST | 17.2°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 03:05 PM WAT | 29.4°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 04:40 AM NPT | 11.1°C | Foggy 🌫️ |
+| 🇮🇳 | **New Delhi** | India | — | — | ⚠️ Error |
+| 🇺🇸 | **New York** | USA | — | — | ⚠️ Error |
+| 🇦🇺 | **Sydney** | Australia | 08:55 AM AEST | 23.6°C | Overcast ☁️ |
+| 🇳🇬 | **Lagos** | Nigeria | 11:55 PM WAT | 26.2°C | Clear Sky ☀️ |
 
 ---
 
@@ -22,63 +22,41 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:50 PM NPT &nbsp;|&nbsp; 📅 Thursday, Nov 12 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:40 AM NPT &nbsp;|&nbsp; 📅 Friday, Nov 13 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **14.0°C** | 14.1°C | 81% | 1.1 km/h | 0.0 mm | 0.0 |
+| **11.1°C** | 10.4°C | 90% | 3.8 km/h | 0.0 mm | 0.0 |
 
-> Clear Sky ☀️
-
-
-### 🇮🇳 New Delhi, India
-
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:35 PM IST &nbsp;|&nbsp; 📅 Thursday, Nov 12 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **24.2°C** | 26.5°C | 69% | 4.2 km/h | 0.0 mm | 0.0 |
-
-> Partly Cloudy ⛅
-
-
-### 🇺🇸 New York, USA
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 10:05 AM EDT &nbsp;|&nbsp; 📅 Thursday, Nov 12 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **14.2°C** | 11.8°C | 69% | 14.1 km/h | 0.0 mm | 1.35 |
-
-> Overcast ☁️
+> Foggy 🌫️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌙 Night &nbsp;|&nbsp; 🕐 12:05 AM AEST &nbsp;|&nbsp; 📅 Friday, Nov 13 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 08:55 AM AEST &nbsp;|&nbsp; 📅 Friday, Nov 13 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **17.2°C** | 18.8°C | 91% | 2.0 km/h | 0.0 mm | 0.0 |
+| **23.6°C** | 24.4°C | 70% | 13.8 km/h | 0.0 mm | 5.75 |
 
-> Clear Sky ☀️
+> Overcast ☁️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:05 PM WAT &nbsp;|&nbsp; 📅 Thursday, Nov 12 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 11:55 PM WAT &nbsp;|&nbsp; 📅 Thursday, Nov 12 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **29.4°C** | 35.1°C | 74% | 5.7 km/h | 0.0 mm | 5.65 |
+| **26.2°C** | 32.5°C | 93% | 3.0 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Clear Sky ☀️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-11-12 14:05 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-11-12 22:55 UTC*
 
 </div>
